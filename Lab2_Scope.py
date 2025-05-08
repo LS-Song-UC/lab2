@@ -1,7 +1,9 @@
 # ENSF 692 Spring 2025
 # May 8 Lab 2
 # Exercise 2
-
+a = []
+for i in range (10):
+    a.append(i)
 
 # Trace through the execution of the following program. 
 # Answer the questions in the comments with your group members.
